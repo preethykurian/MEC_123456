@@ -1,3 +1,4 @@
 read items from 1 to n
 add price of items from 1 to n
 prit bill
+if price greater than 500 give discount else no discount
